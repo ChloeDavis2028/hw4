@@ -1,0 +1,512 @@
+{
+  "2025-yale-vs-harvard-t-shirt": {
+    "fun_name": "The 2025 vs. Harvard Breezy Wingman Tee",
+    "fun_blurb": "Hark, a bouquet of pure delight! Kissed in heather gray, this tee carries 2025 vs. Harvard spirit like a meadow carries wildflowers. Flaps down, smiles up, prepare for a perfect landing.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "baseball-left-chest-crewneck": {
+    "fun_name": "The Baseball Honeysuckle Hangar Crew",
+    "fun_blurb": "Swoon, sweet friends! Kissed in navy, this crewneck carries Baseball spirit like a meadow carries wildflowers. Deploy on game day and capture the high ground.",
+    "best_use": "Your go-to layer for chilly lecture halls: size up for a roomy, cozy fit."
+  },
+  "basic-hoodie-big-yale": {
+    "fun_name": "The Bulldog Blue Marshmallow Missile Hoodie",
+    "fun_blurb": "Swoon, sweet friends! This dreamy navy blue hoodie hums with Bulldog Blue charm, soft as a lullaby and twice as sweet. Flaps down, smiles up, prepare for a perfect landing.",
+    "best_use": "Wear it as your cozy base layer under a winter coat, then fly solo once you reach the library."
+  },
+  "benjamin-franklin-1-4-zip": {
+    "fun_name": "The Benjamin Franklin Crosswind Quarter-Zip",
+    "fun_blurb": "Oh, sweet springtime of style! This heather gray quarter-zip blossoms with Benjamin Franklin pride and wraps you in cloud-spun comfort. Radar confirms it: a direct hit of cuteness.",
+    "best_use": "Layer it over a long-sleeve tee for fall: smart enough for a networking event, comfy enough for the library."
+  },
+  "benjamin-franklin-fleece-jacket": {
+    "fun_name": "The Benjamin Franklin Bomber of Bliss",
+    "fun_blurb": "Behold, a petal-soft daydream! This gray jacket blossoms with Benjamin Franklin pride and wraps you in cloud-spun comfort. Radar confirms it: a direct hit of cuteness.",
+    "best_use": "Wear it over a quarter-zip or crewneck for a warm, put-together look on chilly mornings."
+  },
+  "benjamin-franklin-t-shirt": {
+    "fun_name": "The Benjamin Franklin Breezy Wingman Tee",
+    "fun_blurb": "Swoon, sweet friends! Spun in Yale blue and sprinkled with Benjamin Franklin magic, this tee feels like a hug from a sunbeam. Radar confirms it: a direct hit of cuteness.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "berkeley-1-4-zip": {
+    "fun_name": "The Berkeley Lavender Liftoff Zip",
+    "fun_blurb": "What a dazzling little sunrise! This heather gray quarter-zip blossoms with Berkeley pride and wraps you in cloud-spun comfort. Engage afterburners and charge into finals week!",
+    "best_use": "Great for travel: throw it on at the gate and you are cleared for a comfy flight home."
+  },
+  "berkeley-sweater-fleece-jacket": {
+    "fun_name": "The Berkeley Fleece Flying Ace",
+    "fun_blurb": "Ah, joy blooming like a garden at dawn! Spun in Yale blue and sprinkled with Berkeley magic, this jacket feels like a hug from a sunbeam. Engage afterburners and charge into finals week!",
+    "best_use": "Throw it on for tailgates and evening walks; it blocks the breeze without the bulk of a winter coat."
+  },
+  "big-yale-tri-blend-t-shirt": {
+    "fun_name": "The Bulldog Blue Sunbeam Sortie Tee",
+    "fun_blurb": "Gather 'round, darling Bulldogs! This dreamy dusty coral tee hums with Bulldog Blue charm, soft as a lullaby and twice as sweet. Hold the line, Bulldog; comfort reinforcements have arrived.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "boola-boola-t-shirt": {
+    "fun_name": "The Boola Boola Breezy Wingman Tee",
+    "fun_blurb": "What a dazzling little sunrise! This navy tee blossoms with Boola Boola pride and wraps you in cloud-spun comfort. Fly in formation with your fellow Elis and own the skies.",
+    "best_use": "Pair it with jeans for class and shorts for the Green; it is your everyday wingman from move-in to May."
+  },
+  "branford-1-4-zip": {
+    "fun_name": "The Branford Lavender Liftoff Zip",
+    "fun_blurb": "Gather 'round, darling Bulldogs! This quarter-zip glows in heather gray, a love letter to Branford written in the coziest ink. Deploy on game day and capture the high ground.",
+    "best_use": "Great for travel: throw it on at the gate and you are cleared for a comfy flight home."
+  },
+  "brooks-brothers-bomber-jacket-yale": {
+    "fun_name": "The Bomber Garden Gunship Jacket",
+    "fun_blurb": "What a dazzling little sunrise! Kissed in navy blue, this jacket carries Bomber spirit like a meadow carries wildflowers. Deploy on game day and capture the high ground.",
+    "best_use": "Throw it on for tailgates and evening walks; it blocks the breeze without the bulk of a winter coat."
+  },
+  "brooks-brothers-double-knit-full-zip-hoodie-yale": {
+    "fun_name": "The Bulldog Blue Full-Throttle Hood",
+    "fun_blurb": "Sing out, sunshine! This dreamy navy full-zip hoodie hums with Bulldog Blue charm, soft as a lullaby and twice as sweet. Roger that, wingman, your style is locked on target.",
+    "best_use": "Wear it open over a tee on mild days, or zipped tight with the hood up when the wind rolls in."
+  },
+  "champion-full-zip-hood": {
+    "fun_name": "The Bulldog Blue Afterglow Airlift Hood",
+    "fun_blurb": "Hark, a bouquet of pure delight! This dreamy charcoal gray full-zip hoodie hums with Bulldog Blue charm, soft as a lullaby and twice as sweet. Deploy on game day and capture the high ground.",
+    "best_use": "Wear it open over a tee on mild days, or zipped tight with the hood up when the wind rolls in."
+  },
+  "champion-mens-triumph-raglan-crew": {
+    "fun_name": "The Bulldog Blue Cloud Nine Crew",
+    "fun_blurb": "Ah, joy blooming like a garden at dawn! This dreamy dark heather gray crewneck hums with Bulldog Blue charm, soft as a lullaby and twice as sweet. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Pair it with jeans on game day, then keep it on for the dining-hall debrief."
+  },
+  "champion-reverse-weave-crewneck": {
+    "fun_name": "The Bulldog Blue Honeysuckle Hangar Crew",
+    "fun_blurb": "Hearts aflutter, everyone! Spun in light gray and sprinkled with Bulldog Blue magic, this crewneck feels like a hug from a sunbeam. Radar confirms it: a direct hit of cuteness.",
+    "best_use": "Throw it over a collared shirt for a polished study-session look, or wear it solo with joggers for late nights."
+  },
+  "champion-reverse-weave-hoodie-1": {
+    "fun_name": "The Bulldog Blue Hangar Hug Hoodie",
+    "fun_blurb": "Ah, joy blooming like a garden at dawn! This navy hoodie blossoms with Bulldog Blue pride and wraps you in cloud-spun comfort. Fly in formation with your fellow Elis and own the skies.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "crew-left-chest-hoodie": {
+    "fun_name": "The Bulldog Blue Sky Snuggler Hoodie",
+    "fun_blurb": "Behold, a petal-soft daydream! This navy blue hoodie blossoms with Bulldog Blue pride and wraps you in cloud-spun comfort. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Perfect for the stands on a cold game day. Stash your phone in the front pocket and settle in."
+  },
+  "davenport-college-crewneck": {
+    "fun_name": "The Davenport Cozy Co-Pilot Crew",
+    "fun_blurb": "Swoon, sweet friends! Kissed in heather gray, this crewneck carries Davenport spirit like a meadow carries wildflowers. Deploy on game day and capture the high ground.",
+    "best_use": "Throw it over a collared shirt for a polished study-session look, or wear it solo with joggers for late nights."
+  },
+  "district-tri-blend-t-shirt-vintage-shield": {
+    "fun_name": "The Shield Breezy Wingman Tee",
+    "fun_blurb": "Swoon, sweet friends! This dreamy heather gray tee hums with Shield charm, soft as a lullaby and twice as sweet. Deploy on game day and capture the high ground.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "district-vit-crewneck-vintage-bulldog": {
+    "fun_name": "The Bulldog Cozy Co-Pilot Crew",
+    "fun_blurb": "Hearts aflutter, everyone! This dreamy dark heather charcoal crewneck hums with Bulldog charm, soft as a lullaby and twice as sweet. Fly in formation with your fellow Elis and own the skies.",
+    "best_use": "Pair it with jeans on game day, then keep it on for the dining-hall debrief."
+  },
+  "district-vit-crewneck-vintage-standing-bulldog": {
+    "fun_name": "The Standing Bulldog Petal Patrol Crew",
+    "fun_blurb": "Gather 'round, darling Bulldogs! Kissed in heather charcoal gray, this crewneck carries Standing Bulldog spirit like a meadow carries wildflowers. Engage afterburners and charge into finals week!",
+    "best_use": "Throw it over a collared shirt for a polished study-session look, or wear it solo with joggers for late nights."
+  },
+  "district-vit-hoodie-vintage-bulldog": {
+    "fun_name": "The Bulldog Sky Snuggler Hoodie",
+    "fun_blurb": "Swoon, sweet friends! This dreamy dark heather gray hoodie hums with Bulldog charm, soft as a lullaby and twice as sweet. Engage afterburners and charge into finals week!",
+    "best_use": "Perfect for the stands on a cold game day. Stash your phone in the front pocket and settle in."
+  },
+  "district-vit-hoodie-vintage-sailor-bulldog": {
+    "fun_name": "The Sailor Bulldog Dreamy Dogfighter Hoodie",
+    "fun_blurb": "Oh, sweet springtime of style! Kissed in charcoal gray, this hoodie carries Sailor Bulldog spirit like a meadow carries wildflowers. Hold the line, Bulldog; comfort reinforcements have arrived.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "diving-left-chest-crewneck": {
+    "fun_name": "The Diving Honeysuckle Hangar Crew",
+    "fun_blurb": "Hark, a bouquet of pure delight! This dreamy navy blue crewneck hums with Diving charm, soft as a lullaby and twice as sweet. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Your go-to layer for chilly lecture halls: size up for a roomy, cozy fit."
+  },
+  "divinity-school-fleece-sweater": {
+    "fun_name": "The Divinity Fleece Flying Ace",
+    "fun_blurb": "Gentle breezes, rejoice! Petal by petal, this navy blue jacket unfurls Divinity joy all over your day. Your trusty co-pilot for every campus sortie.",
+    "best_use": "Throw it on for tailgates and evening walks; it blocks the breeze without the bulk of a winter coat."
+  },
+  "dry-zone-long-sleeve": {
+    "fun_name": "The Dry Zone Afterburner Long-Sleeve",
+    "fun_blurb": "Oh, sweet springtime of style! Petal by petal, this navy blue long-sleeve unfurls Dry Zone joy all over your day. Altitude: fabulous. Status: battle-ready.",
+    "best_use": "Wear it to the gym or a run around East Rock, then straight to class without missing a beat."
+  },
+  "fencing-left-chest-hoodie": {
+    "fun_name": "The Fencing Sky Snuggler Hoodie",
+    "fun_blurb": "Swoon, sweet friends! Petal by petal, this navy blue hoodie unfurls Fencing joy all over your day. Flaps down, smiles up, prepare for a perfect landing.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "football-left-chest-t-shirt": {
+    "fun_name": "The Football Sunbeam Sortie Tee",
+    "fun_blurb": "Gather 'round, darling Bulldogs! This tee glows in navy, a love letter to Football written in the coziest ink. Radar confirms it: a direct hit of cuteness.",
+    "best_use": "Pair it with jeans for class and shorts for the Green; it is your everyday wingman from move-in to May."
+  },
+  "grace-hopper-college-crewneck": {
+    "fun_name": "The Grace Hopper Honeysuckle Hangar Crew",
+    "fun_blurb": "Sing out, sunshine! This dreamy navy blue crewneck hums with Grace Hopper charm, soft as a lullaby and twice as sweet. Cleared for takeoff on every quad stroll.",
+    "best_use": "Throw it over a collared shirt for a polished study-session look, or wear it solo with joggers for late nights."
+  },
+  "grace-hopper-logo-t-shirt": {
+    "fun_name": "The Grace Hopper Breezy Wingman Tee",
+    "fun_blurb": "Sing out, sunshine! Spun in heather gray and sprinkled with Grace Hopper magic, this tee feels like a hug from a sunbeam. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "hype-and-vice-yale-university-offside-crewneck": {
+    "fun_name": "The Hype And Vice Petal Patrol Crew",
+    "fun_blurb": "Swoon, sweet friends! This crewneck glows in navy, a love letter to Hype And Vice written in the coziest ink. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Your go-to layer for chilly lecture halls: size up for a roomy, cozy fit."
+  },
+  "hype-and-vice-yale-university-premium-crewneck": {
+    "fun_name": "The Hype And Vice Moonlit Maneuver Crew",
+    "fun_blurb": "What a dazzling little sunrise! This crewneck glows in white, a love letter to Hype And Vice written in the coziest ink. Cleared for takeoff on every quad stroll.",
+    "best_use": "Your go-to layer for chilly lecture halls: size up for a roomy, cozy fit."
+  },
+  "ice-hockey-left-chest-hoodie": {
+    "fun_name": "The Ice Hockey Dreamy Dogfighter Hoodie",
+    "fun_blurb": "Swoon, sweet friends! Kissed in navy blue, this hoodie carries Ice Hockey spirit like a meadow carries wildflowers. Roger that, wingman, your style is locked on target.",
+    "best_use": "Perfect for the stands on a cold game day. Stash your phone in the front pocket and settle in."
+  },
+  "jonathan-edwards-college-crewneck": {
+    "fun_name": "The Jonathan Edwards Petal Patrol Crew",
+    "fun_blurb": "Gather 'round, darling Bulldogs! Spun in heather gray and sprinkled with Jonathan Edwards magic, this crewneck feels like a hug from a sunbeam. Altitude: fabulous. Status: battle-ready.",
+    "best_use": "Your go-to layer for chilly lecture halls: size up for a roomy, cozy fit."
+  },
+  "lacrosse-left-chest-crewneck": {
+    "fun_name": "The Lacrosse Cloud Nine Crew",
+    "fun_blurb": "Hearts aflutter, everyone! Spun in navy blue and sprinkled with Lacrosse magic, this crewneck feels like a hug from a sunbeam. Engage afterburners and charge into finals week!",
+    "best_use": "Throw it over a collared shirt for a polished study-session look, or wear it solo with joggers for late nights."
+  },
+  "morse-1-4-zip": {
+    "fun_name": "The Morse Zephyr Zip",
+    "fun_blurb": "Swoon, sweet friends! This heather gray quarter-zip blossoms with Morse pride and wraps you in cloud-spun comfort. Deploy on game day and capture the high ground.",
+    "best_use": "Great for travel: throw it on at the gate and you are cleared for a comfy flight home."
+  },
+  "morse-logo-t-shirt": {
+    "fun_name": "The Morse Blue Skies Tee",
+    "fun_blurb": "What a dazzling little sunrise! This dreamy heather gray tee hums with Morse charm, soft as a lullaby and twice as sweet. Radar confirms it: a direct hit of cuteness.",
+    "best_use": "Pair it with jeans for class and shorts for the Green; it is your everyday wingman from move-in to May."
+  },
+  "pierson-college-crewneck": {
+    "fun_name": "The Pierson Petal Patrol Crew",
+    "fun_blurb": "Gentle breezes, rejoice! This crewneck glows in navy, a love letter to Pierson written in the coziest ink. Fly in formation with your fellow Elis and own the skies.",
+    "best_use": "Throw it over a collared shirt for a polished study-session look, or wear it solo with joggers for late nights."
+  },
+  "pierson-logo-t-shirt": {
+    "fun_name": "The Pierson Breezy Wingman Tee",
+    "fun_blurb": "Hark, a bouquet of pure delight! This heather gray tee blossoms with Pierson pride and wraps you in cloud-spun comfort. Roger that, wingman, your style is locked on target.",
+    "best_use": "Pair it with jeans for class and shorts for the Green; it is your everyday wingman from move-in to May."
+  },
+  "poly-twill-crewneck-arched-yale": {
+    "fun_name": "The Poly Twill Arched Cloud Nine Crew",
+    "fun_blurb": "Ah, joy blooming like a garden at dawn! This cream crewneck blossoms with Poly Twill Arched pride and wraps you in cloud-spun comfort. Report for duty in total, petal-soft splendor.",
+    "best_use": "Throw it over a collared shirt for a polished study-session look, or wear it solo with joggers for late nights."
+  },
+  "sailing-left-chest-hoodie": {
+    "fun_name": "The Sailing Sky Snuggler Hoodie",
+    "fun_blurb": "Sing out, sunshine! Kissed in navy blue, this hoodie carries Sailing spirit like a meadow carries wildflowers. Deploy on game day and capture the high ground.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "saybrook-college-crewneck": {
+    "fun_name": "The Saybrook Petal Patrol Crew",
+    "fun_blurb": "Sing out, sunshine! Spun in navy blue and sprinkled with Saybrook magic, this crewneck feels like a hug from a sunbeam. Flaps down, smiles up, prepare for a perfect landing.",
+    "best_use": "Pair it with jeans on game day, then keep it on for the dining-hall debrief."
+  },
+  "saybrook-logo-t-shirt": {
+    "fun_name": "The Saybrook Tailwind Tee",
+    "fun_blurb": "Gather 'round, darling Bulldogs! This tee glows in heather gray, a love letter to Saybrook written in the coziest ink. Report for duty in total, petal-soft splendor.",
+    "best_use": "Pair it with jeans for class and shorts for the Green; it is your everyday wingman from move-in to May."
+  },
+  "saybrook-sweater-fleece-jacket": {
+    "fun_name": "The Saybrook Garden Gunship Jacket",
+    "fun_blurb": "Gentle breezes, rejoice! This jacket glows in heather gray, a love letter to Saybrook written in the coziest ink. Radar confirms it: a direct hit of cuteness.",
+    "best_use": "Wear it over a quarter-zip or crewneck for a warm, put-together look on chilly mornings."
+  },
+  "school-of-architecture-crewneck": {
+    "fun_name": "The Architecture Lavender Liftoff Zip",
+    "fun_blurb": "Gather 'round, darling Bulldogs! Petal by petal, this navy blue quarter-zip unfurls Architecture joy all over your day. Cleared for takeoff on every quad stroll.",
+    "best_use": "Great for travel: throw it on at the gate and you are cleared for a comfy flight home."
+  },
+  "school-of-architecture-fleece-sweater": {
+    "fun_name": "The Architecture Velvet Vector Jacket",
+    "fun_blurb": "Behold, a petal-soft daydream! This jacket glows in navy blue, a love letter to Architecture written in the coziest ink. Flaps down, smiles up, prepare for a perfect landing.",
+    "best_use": "Your outer layer for crisp fall days and the Bowl; layer a hoodie underneath when winter arrives."
+  },
+  "school-of-art-1-4-zip": {
+    "fun_name": "The Art Jetstream Zip",
+    "fun_blurb": "Ah, joy blooming like a garden at dawn! Kissed in navy, this quarter-zip carries Art spirit like a meadow carries wildflowers. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Zip it up over a button-down for a sharp, interview-ready look, or wear it half-zipped on a cool afternoon."
+  },
+  "school-of-art-fleece-sweater": {
+    "fun_name": "The Art Fleece Flying Ace",
+    "fun_blurb": "Gather 'round, darling Bulldogs! This dreamy navy blue jacket hums with Art charm, soft as a lullaby and twice as sweet. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Throw it on for tailgates and evening walks; it blocks the breeze without the bulk of a winter coat."
+  },
+  "school-of-engineering-1-4-zip": {
+    "fun_name": "The Engineering Rose-Petal Recon Zip",
+    "fun_blurb": "Ah, joy blooming like a garden at dawn! Petal by petal, this navy blue quarter-zip unfurls Engineering joy all over your day. Hold the line, Bulldog; comfort reinforcements have arrived.",
+    "best_use": "Zip it up over a button-down for a sharp, interview-ready look, or wear it half-zipped on a cool afternoon."
+  },
+  "school-of-management-crest-t-shirt": {
+    "fun_name": "The Management Crest Sunbeam Sortie Tee",
+    "fun_blurb": "Hark, a bouquet of pure delight! This navy tee blossoms with Management Crest pride and wraps you in cloud-spun comfort. Roger that, wingman, your style is locked on target.",
+    "best_use": "Pair it with jeans for class and shorts for the Green; it is your everyday wingman from move-in to May."
+  },
+  "school-of-medicine-1-4-zip": {
+    "fun_name": "The Medicine Jetstream Zip",
+    "fun_blurb": "Sing out, sunshine! This dreamy navy blue quarter-zip hums with Medicine charm, soft as a lullaby and twice as sweet. Roger that, wingman, your style is locked on target.",
+    "best_use": "Great for travel: throw it on at the gate and you are cleared for a comfy flight home."
+  },
+  "school-of-music-fleece-sweater": {
+    "fun_name": "The Music Fleece Flying Ace",
+    "fun_blurb": "Swoon, sweet friends! Petal by petal, this navy blue jacket unfurls Music joy all over your day. Your trusty co-pilot for every campus sortie.",
+    "best_use": "Throw it on for tailgates and evening walks; it blocks the breeze without the bulk of a winter coat."
+  },
+  "school-of-nursing-crest-t-shirt": {
+    "fun_name": "The Nursing Crest Runway Rosebud Tee",
+    "fun_blurb": "Swoon, sweet friends! This tee glows in navy blue, a love letter to Nursing Crest written in the coziest ink. Your trusty co-pilot for every campus sortie.",
+    "best_use": "Pair it with jeans for class and shorts for the Green; it is your everyday wingman from move-in to May."
+  },
+  "school-of-public-health-1-4-zip": {
+    "fun_name": "The Public Health Crosswind Quarter-Zip",
+    "fun_blurb": "Gather 'round, darling Bulldogs! Spun in navy blue and sprinkled with Public Health magic, this quarter-zip feels like a hug from a sunbeam. Report for duty in total, petal-soft splendor.",
+    "best_use": "Great for travel: throw it on at the gate and you are cleared for a comfy flight home."
+  },
+  "soccer-left-chest-crewneck": {
+    "fun_name": "The Soccer Honeysuckle Hangar Crew",
+    "fun_blurb": "Behold, a petal-soft daydream! Spun in navy blue and sprinkled with Soccer magic, this crewneck feels like a hug from a sunbeam. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Pair it with jeans on game day, then keep it on for the dining-hall debrief."
+  },
+  "squash-left-chest-hoodie": {
+    "fun_name": "The Squash Starlight Squadron Hoodie",
+    "fun_blurb": "Hearts aflutter, everyone! Spun in navy blue and sprinkled with Squash magic, this hoodie feels like a hug from a sunbeam. Fly in formation with your fellow Elis and own the skies.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "squash-left-chest-tennis": {
+    "fun_name": "The Squash Tennis Honeysuckle Hangar Crew",
+    "fun_blurb": "Gentle breezes, rejoice! This crewneck glows in navy blue, a love letter to Squash Tennis written in the coziest ink. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Pair it with jeans on game day, then keep it on for the dining-hall debrief."
+  },
+  "super-heavyweight-crewneck-arched-yale-crest": {
+    "fun_name": "The Super Arched Crest Honeysuckle Hangar Crew",
+    "fun_blurb": "Gather 'round, darling Bulldogs! This dreamy heather gray crewneck hums with Super Arched Crest charm, soft as a lullaby and twice as sweet. Flaps down, smiles up, prepare for a perfect landing.",
+    "best_use": "Your go-to layer for chilly lecture halls: size up for a roomy, cozy fit."
+  },
+  "t-felt-y-heavyweight": {
+    "fun_name": "The Felt Y Sunbeam Sortie Tee",
+    "fun_blurb": "Hark, a bouquet of pure delight! Kissed in cream, this tee carries Felt Y spirit like a meadow carries wildflowers. Altitude: fabulous. Status: battle-ready.",
+    "best_use": "Layer it under a crewneck on crisp mornings, then peel down to just the tee by afternoon."
+  },
+  "the-forest-school-hoodie": {
+    "fun_name": "The Forest Cloud Cocoon Hoodie",
+    "fun_blurb": "Gentle breezes, rejoice! Spun in navy and sprinkled with Forest magic, this hoodie feels like a hug from a sunbeam. Flaps down, smiles up, prepare for a perfect landing.",
+    "best_use": "Wear it as your cozy base layer under a winter coat, then fly solo once you reach the library."
+  },
+  "timothy-dwight-college-crewneck": {
+    "fun_name": "The Timothy Dwight Velvet Vanguard Crew",
+    "fun_blurb": "Swoon, sweet friends! Kissed in Yale blue, this crewneck carries Timothy Dwight spirit like a meadow carries wildflowers. Flaps down, smiles up, prepare for a perfect landing.",
+    "best_use": "Pair it with jeans on game day, then keep it on for the dining-hall debrief."
+  },
+  "track-field-left-chest-t-shirt": {
+    "fun_name": "The Track Field Blue Skies Tee",
+    "fun_blurb": "Oh, sweet springtime of style! This navy blue tee blossoms with Track Field pride and wraps you in cloud-spun comfort. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "tri-blend-sports-baseball-t-shirt": {
+    "fun_name": "The Baseball Sunbeam Sortie Tee",
+    "fun_blurb": "Hark, a bouquet of pure delight! Kissed in heather gray, this tee carries Baseball spirit like a meadow carries wildflowers. Report for duty in total, petal-soft splendor.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "tri-blend-sports-basketball-t-shirt": {
+    "fun_name": "The Basketball Tailwind Tee",
+    "fun_blurb": "Sing out, sunshine! Petal by petal, this heather gray tee unfurls Basketball joy all over your day. Fly in formation with your fellow Elis and own the skies.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "tri-blend-sports-football-t-shirt": {
+    "fun_name": "The Football Runway Rosebud Tee",
+    "fun_blurb": "Ah, joy blooming like a garden at dawn! This heather gray tee blossoms with Football pride and wraps you in cloud-spun comfort. Hold the line, Bulldog; comfort reinforcements have arrived.",
+    "best_use": "Layer it under a crewneck on crisp mornings, then peel down to just the tee by afternoon."
+  },
+  "tri-blend-sports-hockey-t-shirt": {
+    "fun_name": "The Hockey Sunbeam Sortie Tee",
+    "fun_blurb": "What a dazzling little sunrise! Kissed in heather gray, this tee carries Hockey spirit like a meadow carries wildflowers. Radar confirms it: a direct hit of cuteness.",
+    "best_use": "Layer it under a crewneck on crisp mornings, then peel down to just the tee by afternoon."
+  },
+  "tri-blend-sports-soccer-t-shirt": {
+    "fun_name": "The Soccer Blue Skies Tee",
+    "fun_blurb": "Swoon, sweet friends! This tee glows in heather gray, a love letter to Soccer written in the coziest ink. Your trusty co-pilot for every campus sortie.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "tri-blend-sports-tennis-t-shirt": {
+    "fun_name": "The Tennis Sunbeam Sortie Tee",
+    "fun_blurb": "Ah, joy blooming like a garden at dawn! Petal by petal, this heather gray tee unfurls Tennis joy all over your day. Fly in formation with your fellow Elis and own the skies.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "tri-blend-sports-track-and-field-t-shirt": {
+    "fun_name": "The Track And Field Blue Skies Tee",
+    "fun_blurb": "Swoon, sweet friends! Petal by petal, this heather gray tee unfurls Track And Field joy all over your day. Your trusty co-pilot for every campus sortie.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "trumbull-1-4-zip": {
+    "fun_name": "The Trumbull Crosswind Quarter-Zip",
+    "fun_blurb": "Gather 'round, darling Bulldogs! This dreamy heather gray quarter-zip hums with Trumbull charm, soft as a lullaby and twice as sweet. Hold the line, Bulldog; comfort reinforcements have arrived.",
+    "best_use": "Layer it over a long-sleeve tee for fall: smart enough for a networking event, comfy enough for the library."
+  },
+  "ua-gameday-double-knit-hood": {
+    "fun_name": "The Gameday Sky Snuggler Hoodie",
+    "fun_blurb": "Sing out, sunshine! Kissed in navy, this hoodie carries Gameday spirit like a meadow carries wildflowers. Flaps down, smiles up, prepare for a perfect landing.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "ua-mens-tech-l-s-2-0": {
+    "fun_name": "The Tech Afterburner Long-Sleeve",
+    "fun_blurb": "Sing out, sunshine! This navy blue long-sleeve blossoms with Tech pride and wraps you in cloud-spun comfort. Your trusty co-pilot for every campus sortie.",
+    "best_use": "Wear it to the gym or a run around East Rock, then straight to class without missing a beat."
+  },
+  "volleyball-left-chest-hoodie": {
+    "fun_name": "The Volleyball Sky Snuggler Hoodie",
+    "fun_blurb": "Behold, a petal-soft daydream! This hoodie glows in navy, a love letter to Volleyball written in the coziest ink. Engage afterburners and charge into finals week!",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "yale-aunt-hoodie": {
+    "fun_name": "The Aunt Hangar Hug Hoodie",
+    "fun_blurb": "Ah, joy blooming like a garden at dawn! This dreamy navy blue hoodie hums with Aunt charm, soft as a lullaby and twice as sweet. Engage afterburners and charge into finals week!",
+    "best_use": "Wear it as your cozy base layer under a winter coat, then fly solo once you reach the library."
+  },
+  "yale-bowl-t-shirt": {
+    "fun_name": "The Bowl Runway Rosebud Tee",
+    "fun_blurb": "Hark, a bouquet of pure delight! Kissed in ivory, this tee carries Bowl spirit like a meadow carries wildflowers. Engage afterburners and charge into finals week!",
+    "best_use": "Pair it with jeans for class and shorts for the Green; it is your everyday wingman from move-in to May."
+  },
+  "yale-brother-crewneck": {
+    "fun_name": "The Brother Velvet Vanguard Crew",
+    "fun_blurb": "Hark, a bouquet of pure delight! This heather gray crewneck blossoms with Brother pride and wraps you in cloud-spun comfort. Altitude: fabulous. Status: battle-ready.",
+    "best_use": "Your go-to layer for chilly lecture halls: size up for a roomy, cozy fit."
+  },
+  "yale-cousin-crewneck": {
+    "fun_name": "The Cousin Cloud Nine Crew",
+    "fun_blurb": "Sing out, sunshine! Petal by petal, this heather gray crewneck unfurls Cousin joy all over your day. Deploy on game day and capture the high ground.",
+    "best_use": "Pair it with jeans on game day, then keep it on for the dining-hall debrief."
+  },
+  "yale-dad-crewneck": {
+    "fun_name": "The Dad Petal Patrol Crew",
+    "fun_blurb": "Gentle breezes, rejoice! Kissed in heather gray, this crewneck carries Dad spirit like a meadow carries wildflowers. Report for duty in total, petal-soft splendor.",
+    "best_use": "Pair it with jeans on game day, then keep it on for the dining-hall debrief."
+  },
+  "yale-dad-hoodie": {
+    "fun_name": "The Dad Hangar Hug Hoodie",
+    "fun_blurb": "Sing out, sunshine! Petal by petal, this navy blue hoodie unfurls Dad joy all over your day. Engage afterburners and charge into finals week!",
+    "best_use": "Wear it as your cozy base layer under a winter coat, then fly solo once you reach the library."
+  },
+  "yale-dad-t-shirt": {
+    "fun_name": "The Dad Tailwind Tee",
+    "fun_blurb": "Ah, joy blooming like a garden at dawn! This tee glows in heather gray, a love letter to Dad written in the coziest ink. Engage afterburners and charge into finals week!",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "yale-diving-t-shirt": {
+    "fun_name": "The Diving Runway Rosebud Tee",
+    "fun_blurb": "Behold, a petal-soft daydream! Petal by petal, this heather gray tee unfurls Diving joy all over your day. Cleared for takeoff on every quad stroll.",
+    "best_use": "Wear it solo on warm days on Old Campus, or tuck it under an open flannel when the breeze picks up."
+  },
+  "yale-grandma-hoodie": {
+    "fun_name": "The Grandma Dreamy Dogfighter Hoodie",
+    "fun_blurb": "Gentle breezes, rejoice! This navy blue hoodie blossoms with Grandma pride and wraps you in cloud-spun comfort. Report for duty in total, petal-soft splendor.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "yale-grandpa-crewneck": {
+    "fun_name": "The Grandpa Cozy Co-Pilot Crew",
+    "fun_blurb": "Sing out, sunshine! This crewneck glows in heather gray, a love letter to Grandpa written in the coziest ink. Cleared for takeoff on every quad stroll.",
+    "best_use": "Throw it over a collared shirt for a polished study-session look, or wear it solo with joggers for late nights."
+  },
+  "yale-grandpa-hoodie": {
+    "fun_name": "The Grandpa Dreamy Dogfighter Hoodie",
+    "fun_blurb": "Hark, a bouquet of pure delight! This navy blue hoodie blossoms with Grandpa pride and wraps you in cloud-spun comfort. Hold the line, Bulldog; comfort reinforcements have arrived.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "yale-law-school-1-4-zip": {
+    "fun_name": "The Law Rose-Petal Recon Zip",
+    "fun_blurb": "Gather 'round, darling Bulldogs! This quarter-zip glows in navy, a love letter to Law written in the coziest ink. Fly in formation with your fellow Elis and own the skies.",
+    "best_use": "Great for travel: throw it on at the gate and you are cleared for a comfy flight home."
+  },
+  "yale-maplehouse-diana-mockneck": {
+    "fun_name": "The Maplehouse Diana Mock-Turtle Maverick",
+    "fun_blurb": "Hark, a bouquet of pure delight! This mockneck glows in cream, a love letter to Maplehouse Diana written in the coziest ink. Radar confirms it: a direct hit of cuteness.",
+    "best_use": "Pair it with trousers or a skirt for a cozy-chic look, or with leggings for a relaxed weekend."
+  },
+  "yale-mom-crewneck": {
+    "fun_name": "The Mom Petal Patrol Crew",
+    "fun_blurb": "Behold, a petal-soft daydream! Petal by petal, this heather gray crewneck unfurls Mom joy all over your day. Altitude: fabulous. Status: battle-ready.",
+    "best_use": "Throw it over a collared shirt for a polished study-session look, or wear it solo with joggers for late nights."
+  },
+  "yale-mom-hoodie": {
+    "fun_name": "The Mom Sky Snuggler Hoodie",
+    "fun_blurb": "Gentle breezes, rejoice! This dreamy navy blue hoodie hums with Mom charm, soft as a lullaby and twice as sweet. Deploy on game day and capture the high ground.",
+    "best_use": "Wear it as your cozy base layer under a winter coat, then fly solo once you reach the library."
+  },
+  "yale-sports-creqneck-field-hockey": {
+    "fun_name": "The Creqneck Field Hockey Cloud Nine Crew",
+    "fun_blurb": "Behold, a petal-soft daydream! Petal by petal, this heather gray crewneck unfurls Creqneck Field Hockey joy all over your day. Hold the line, Bulldog; comfort reinforcements have arrived.",
+    "best_use": "Throw it over a collared shirt for a polished study-session look, or wear it solo with joggers for late nights."
+  },
+  "yale-sports-crewneck-baseball": {
+    "fun_name": "The Baseball Velvet Vanguard Crew",
+    "fun_blurb": "Oh, sweet springtime of style! This heather gray crewneck blossoms with Baseball pride and wraps you in cloud-spun comfort. Fly in formation with your fellow Elis and own the skies.",
+    "best_use": "Pair it with jeans on game day, then keep it on for the dining-hall debrief."
+  },
+  "yale-sports-crewneck-golf": {
+    "fun_name": "The Golf Cloud Nine Crew",
+    "fun_blurb": "Hearts aflutter, everyone! Kissed in heather gray, this crewneck carries Golf spirit like a meadow carries wildflowers. Deploy on game day and capture the high ground.",
+    "best_use": "Throw it over a collared shirt for a polished study-session look, or wear it solo with joggers for late nights."
+  },
+  "yale-sports-crewneck-volleyball": {
+    "fun_name": "The Volleyball Honeysuckle Hangar Crew",
+    "fun_blurb": "Hark, a bouquet of pure delight! Kissed in heather gray, this crewneck carries Volleyball spirit like a meadow carries wildflowers. Engage afterburners and charge into finals week!",
+    "best_use": "Pair it with jeans on game day, then keep it on for the dining-hall debrief."
+  },
+  "yale-sports-hoodie-baseball": {
+    "fun_name": "The Baseball Marshmallow Missile Hoodie",
+    "fun_blurb": "What a dazzling little sunrise! This heather gray hoodie blossoms with Baseball pride and wraps you in cloud-spun comfort. Report for duty in total, petal-soft splendor.",
+    "best_use": "Wear it as your cozy base layer under a winter coat, then fly solo once you reach the library."
+  },
+  "yale-sports-hoodie-diving": {
+    "fun_name": "The Diving Cloud Cocoon Hoodie",
+    "fun_blurb": "Hearts aflutter, everyone! This dreamy heather gray hoodie hums with Diving charm, soft as a lullaby and twice as sweet. Engage afterburners and charge into finals week!",
+    "best_use": "Wear it as your cozy base layer under a winter coat, then fly solo once you reach the library."
+  },
+  "yale-sports-hoodie-golf": {
+    "fun_name": "The Golf Dreamy Dogfighter Hoodie",
+    "fun_blurb": "Hearts aflutter, everyone! Kissed in heather gray, this hoodie carries Golf spirit like a meadow carries wildflowers. Cleared for takeoff on every quad stroll.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "yale-sports-hoodie-hockey": {
+    "fun_name": "The Hockey Cloud Cocoon Hoodie",
+    "fun_blurb": "What a dazzling little sunrise! Kissed in heather gray, this hoodie carries Hockey spirit like a meadow carries wildflowers. Report for duty in total, petal-soft splendor.",
+    "best_use": "Wear it as your cozy base layer under a winter coat, then fly solo once you reach the library."
+  },
+  "yale-sports-hoodie-soccer": {
+    "fun_name": "The Soccer Dreamy Dogfighter Hoodie",
+    "fun_blurb": "Hearts aflutter, everyone! This heather gray hoodie blossoms with Soccer pride and wraps you in cloud-spun comfort. Engage afterburners and charge into finals week!",
+    "best_use": "Wear it as your cozy base layer under a winter coat, then fly solo once you reach the library."
+  },
+  "yale-sports-hoodie-swimming": {
+    "fun_name": "The Swimming Marshmallow Missile Hoodie",
+    "fun_blurb": "Sing out, sunshine! Spun in heather gray and sprinkled with Swimming magic, this hoodie feels like a hug from a sunbeam. Report for duty in total, petal-soft splendor.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "yale-sports-hoodie-tennis": {
+    "fun_name": "The Tennis Hangar Hug Hoodie",
+    "fun_blurb": "Oh, sweet springtime of style! Kissed in heather gray, this hoodie carries Tennis spirit like a meadow carries wildflowers. Deploy on game day and capture the high ground.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  },
+  "yale-sports-t-shirt-field-hockey": {
+    "fun_name": "The Field Hockey Runway Rosebud Tee",
+    "fun_blurb": "Oh, sweet springtime of style! This heather gray tee blossoms with Field Hockey pride and wraps you in cloud-spun comfort. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Pair it with jeans for class and shorts for the Green; it is your everyday wingman from move-in to May."
+  },
+  "yale-uncle-hoodie": {
+    "fun_name": "The Uncle Dreamy Dogfighter Hoodie",
+    "fun_blurb": "Oh, sweet springtime of style! Kissed in navy blue, this hoodie carries Uncle spirit like a meadow carries wildflowers. Mission accomplished: maximum cozy, zero casualties.",
+    "best_use": "Hood up for windy walks down Hillhouse; layer a tee underneath for those 8 a.m. sorties."
+  }
+}

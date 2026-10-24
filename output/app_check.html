@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Campus Customs: App Check</title>
+  <style>
+    body { margin: 0; font-family: 'Segoe UI', system-ui, Arial, sans-serif; color: #1d2433; background: #f4f7fb; line-height: 1.5; }
+    header { background: #0f1b2d; color: #fff; border-bottom: 4px solid #f2b632; padding: 20px 16px; }
+    header div, main { max-width: 900px; margin: 0 auto; }
+    h1 { margin: 0; font-family: Georgia, serif; }
+    header p { margin: 4px 0 0; color: #cfd9e8; font-size: 0.9rem; }
+    main { padding: 16px; }
+    nav { background: #fff; border: 1px solid #dde3ec; border-radius: 10px; padding: 10px 16px; }
+    nav ol { margin: 6px 0; padding-left: 20px; }
+    .check { background: #fff; border: 1px solid #dde3ec; border-left: 6px solid #00356b; border-radius: 10px; padding: 14px 18px; margin: 16px 0; }
+    .check h2 { margin: 0 0 8px; color: #00356b; font-family: Georgia, serif; font-size: 1.25rem; }
+    .test { margin: 0 0 10px; font-size: 0.92rem; color: #5b6475; }
+    .check img { width: 100%; border: 1px solid #dde3ec; border-radius: 8px; display: block; }
+    .proves { margin: 10px 0 0; background: #e6f6ee; border-radius: 8px; padding: 8px 12px; }
+    .proves strong { color: #0d5a3d; }
+    h2.group { margin: 28px 0 4px; font-family: Georgia, serif; color: #0f1b2d; border-bottom: 3px solid #f2b632; padding-bottom: 4px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>✈ Campus Customs: App Check</h1>
+      <p>Problem 11 · live tests of the running site (localhost:5173) and Chloe the chat agent · Oct 24, 2026</p>
+    </div>
+  </header>
+
+  <main>
+    <nav>
+      <strong>Checks (all passed):</strong>
+      <ol>
+        <li><a href="#inventory">Chat inventory check: stock and price from the database</a></li>
+        <li><a href="#search-cards">Search-result cards after a category question (hoodies)</a></li>
+        <li><a href="#usability">Problem 9 usability feature: one-shot filter search</a></li>
+        <li><a href="#extra">Extra Problem 9 features: flight search filters and phone menu</a></li>
+      </ol>
+      <strong>Pilot relationship checks (all passed):</strong>
+      <ol start="5">
+        <li><a href="#returning-pilot">Returning pilot: Chloe remembers the last flight</a></li>
+        <li><a href="#follows-page">Chloe follows you on a product page ("this one")</a></li>
+        <li><a href="#future-flyer">Future flyer: encouragement and a real first step</a></li>
+        <li><a href="#sold-out">A friendly "no": sold-out size with alternatives</a></li>
+        <li><a href="#nickname">Nickname and typos: "handsom dan hoodys"</a></li>
+        <li><a href="#guest">Guest vs. pilot: guest chats are not saved</a></li>
+      </ol>
+    </nav>
+
+    <section class="check" id="inventory">
+      <h2>1. Chat inventory check</h2>
+      <p class="test">Asked Chloe: "Do you have the Football Left Chest T Shirt in large or medium, and what is the price?"</p>
+      <img src="app_check_images/inventory.jpg" alt="Chloe answering the stock and price question in the chat panel" />
+      <p class="proves"><strong>What this proves:</strong> Chloe gave the honest stock and price from the database: "$32.00. Medium is sold out; large is available with only 2 left" (database: $32, M = 0, L = 2).</p>
+    </section>
+
+    <section class="check" id="search-cards">
+      <h2>2. Search-result cards after a category question</h2>
+      <p class="test">Asked Chloe: "what hoodies do you have?"</p>
+      <img src="app_check_images/search_cards.jpg" alt="8 hoodie product cards appearing on the page after the chat question" />
+      <p class="proves"><strong>What this proves:</strong> The chat answer made 8 hoodie product cards appear on the page, each showing image and reel, name, price and short info. Each card opens that product's item page when clicked.</p>
+    </section>
+
+    <section class="check" id="usability">
+      <h2>3. Problem 9 usability feature: one-shot filter search</h2>
+      <p class="test">Asked Chloe: "show me navy hoodies under $70 that are in stock in medium"</p>
+      <img src="app_check_images/usability_one_shot_search.jpg" alt="Chat answer with 8 matching navy hoodie cards under $70" />
+      <p class="proves"><strong>What this proves:</strong> The new <code>search_catalogue</code> tool answered a three-condition question in one lookup. All 8 cards shown are navy, under $70 and in stock in medium, which was checked against the database.</p>
+    </section>
+
+    <section class="check" id="extra">
+      <h2>4. Extra Problem 9 features: flight search and phone menu</h2>
+      <p class="test">Typed "bulldog" in the Products search bar; opened the site at phone width.</p>
+      <img src="app_check_images/usability_flight_search.jpg" alt="Products page search narrowing results to bulldog items" />
+      <p class="proves"><strong>What this proves:</strong> The Products search and filters work: "bulldog" narrows 102 items to 18.</p>
+      <img src="app_check_images/usability_phone_menu.jpg" alt="Phone-width site with the Flight menu open" style="max-width: 320px; margin-top: 12px;" />
+      <p class="proves"><strong>What this proves:</strong> On phones the menu folds behind "☰ Flight menu", so the header stays small and the products get the screen.</p>
+    </section>
+
+    <h2 class="group">Pilot relationship checks</h2>
+    <p class="test">Do Chloe and the site treat each shopper like a pilot they know? Tested as the logged-in test pilot "Colonel Chloe" (callsign Bulldog One), then as a guest.</p>
+
+    <section class="check" id="returning-pilot">
+      <h2>5. Returning pilot: Chloe remembers the last flight</h2>
+      <p class="test">Asked about a Yale Dad Hoodie as a birthday gift, logged out, logged back in, then asked: "Do you remember who I was shopping for last time?"</p>
+      <img src="app_check_images/returning_pilot.jpg" alt="Chat after logging back in: flight log restored, and Chloe recalls the gift for dad" />
+      <p class="proves"><strong>What this proves:</strong> A logged-in pilot's chat is saved and reloaded ("Flight log restored"), and Chloe used it to recall "a birthday gift for your dad." The database holds this pilot's 12 saved messages.</p>
+      <img src="app_check_images/pilot_nav.jpg" alt="Logged-in nav showing the pilot chip and Log out, with the restored chat ending on the last saved message" style="margin-top: 12px;" />
+      <p class="proves"><strong>What this proves:</strong> Once logged in, the menu treats you as a pilot: "✈ Colonel Chloe" and "Log out" replace "Log In" and "Create Account" (guests still see all five links). Reloading a page mid-chat continues the flight log without a repeated "welcome back"; Chloe only greets again after a 30-minute break.</p>
+    </section>
+
+    <section class="check" id="follows-page">
+      <h2>6. Chloe follows you on a product page</h2>
+      <p class="test">On the Yale Dad Hoodie page, asked: "Do you have this one in large?" (no product name given).</p>
+      <img src="app_check_images/follows_product_page.jpg" alt="Yale Dad Hoodie page with Chloe confirming large is in stock" />
+      <p class="proves"><strong>What this proves:</strong> Chloe knew "this one" meant the page the pilot was on, and gave the real stock: large has 20 (database: L = 20). She even remembered it was a birthday gift.</p>
+    </section>
+
+    <section class="check" id="future-flyer">
+      <h2>7. Future flyer: encouragement and a real first step</h2>
+      <p class="test">As a guest, asked: "I'm 15 and I want to be a pilot someday. Where do I start?"</p>
+      <img src="app_check_images/future_flyer.jpg" alt="Chloe encouraging a 15-year-old future pilot and pointing to the Hall of Flight" />
+      <p class="proves"><strong>What this proves:</strong> Chloe welcomes young aviators with real first steps (a discovery flight, math and science), points them to the Hall of Flight on the Home page with a pioneer's story (Bessie Coleman), and invites the guest to create an account to "earn your wings."</p>
+    </section>
+
+    <section class="check" id="sold-out">
+      <h2>8. A friendly "no": sold-out size with alternatives</h2>
+      <p class="test">On the Sailing Left Chest Hoodie page, asked: "Can I get this one in large?"</p>
+      <img src="app_check_images/sold_out_alternative.jpg" alt="Chloe saying large is sold out and listing the sizes in stock" />
+      <p class="proves"><strong>What this proves:</strong> Chloe is honest that large is sold out, then keeps the pilot shopping by listing the sizes that are in stock (database: L = 0; XS 20, S 2, M 25, XL 5, XXL 8).</p>
+    </section>
+
+    <section class="check" id="nickname">
+      <h2>9. Nickname and typos: "handsom dan hoodys"</h2>
+      <p class="test">Asked with a nickname and two typos: "got any handsom dan hoodys?"</p>
+      <img src="app_check_images/nickname_typo.jpg" alt="Two bulldog hoodie cards shown after a misspelled Handsome Dan question" />
+      <p class="proves"><strong>What this proves:</strong> Typos and the mascot's nickname still find the right gear: the only 2 bulldog hoodies in the database appear as cards. Chloe also says honestly that none are officially named "Handsome Dan."</p>
+    </section>
+
+    <section class="check" id="guest">
+      <h2>10. Guest vs. pilot: guest chats are not saved</h2>
+      <p class="test">Logged out, asked "What's the cheapest hoodie?" as a guest, then refreshed the page.</p>
+      <img src="app_check_images/guest_vs_pilot.jpg" alt="Left: guest chat with an answer. Right: after refresh the guest chat is empty" />
+      <p class="proves"><strong>What this proves:</strong> Guests can still chat and get correct answers ($45.00, a tie that matches the database), but their chat is gone after a refresh and 0 guest rows are in the database. Only signed-up pilots get a saved flight log, which is a reason to "earn your wings."</p>
+    </section>
+  </main>
+</body>
+</html>

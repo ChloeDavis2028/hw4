@@ -1,0 +1,35 @@
+# ---------- Local-only data pack (never in git) ----------
+# The course database and product images stay on your own machine.
+data/
+*.db
+*.db-journal
+*.sqlite
+
+# ---------- Secrets ----------
+.env
+.env.*
+!.env.example
+backend/.session_secret
+output/test_accounts.md
+
+# ---------- Python ----------
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ---------- Node / Vite ----------
+node_modules/
+frontend/dist/
+*.log
+
+# ---------- Editor and OS clutter ----------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Temp files from the audit trail writer ----------
+*.tmp
+output/audit_trail.damaged-*.json
