@@ -250,7 +250,7 @@ easy check, screenshot. and have one or two sentences on what the screenshot pro
 > for problem 11;  a follow up question is what checks can be run to better suit a more dynamic aviation pleasant relatioship?
 
 **Follow-up prompt:**
-> Add all 6 relationship checks to app_check.html with screenshots and what-this-proves lines.
+> Add all 6 relationship checks to app_check.html with screenshots and what-this-proves lines. *(clicked a suggested reply)*
 
 **Follow-up prompt:**
 > i like those inputs, make those changes
@@ -274,7 +274,7 @@ My first prompt didn't say which checks to run or how to make them easy to grade
 > I had quite a few follow up questions for problem 12. use them, but also help me understand what other gaps i am missing
 
 **Follow-up prompt:**
-> Fix both now: move the audit trail code into the four agent files and fix the lint error, then retest.
+> Fix both now: move the audit trail code into the four agent files and fix the lint error, then retest. *(clicked a suggested reply)*
 
 **Follow-up prompt:**
 > yes and also standardize capitalization across the website; needs to  appear moreacademic
@@ -283,7 +283,7 @@ My first prompt didn't say which checks to run or how to make them easy to grade
 > can you add a few photos of real life c130s airdropping cargo?
 
 **Follow-up prompt:**
-> Yes, download those 3 photos and add them to the About page with credits.
+> Yes, download those 3 photos and add them to the About page with credits. *(clicked a suggested reply)*
 
 **What was lacking after the first:**
 My first prompt only named the audit trail file; it didn't say what to record (time, tool name, short arguments and results, stop reasons), and it left out the safety rules for stopping hackers and anything illegal, plus the full harness explanation of model fields, tools, safety rules and specs.
@@ -293,6 +293,9 @@ My first prompt only named the audit trail file; it didn't say what to record (t
 
 **Prompt:**
 > lets get ready to submit,  by dropping my code into hw4 folder and push it to a public GitHub.  then on Canvas, submit the repo URL.  make sure the real .env, campus_customs.db or product images in the GitHub repo are not put. use .gitignore and include the .env.example with placeholders only
+
+**Follow-up prompt:**
+> Add a short note "(clicked a suggested reply)" after the 3 button-text prompts in AI_prompts.md, then sync hw4 and push. *(clicked a suggested reply)*
 
 **Follow-up prompt (if needed):**
 > 
